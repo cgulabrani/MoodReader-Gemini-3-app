@@ -1,0 +1,5 @@
+{
+  "name": "MoodReader",
+  "description": "A sophisticated book curation app that uses AI to recommend literature perfectly matched to your current emotional state. Discover your next favorite read through the lens of your mood.",
+  "requestFramePermissions": []
+}
